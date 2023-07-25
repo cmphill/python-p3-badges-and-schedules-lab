@@ -25,4 +25,3 @@ def printer(names):
     for assignment in assign_rooms(names):
         print(assignment)
 
-#tests passing
