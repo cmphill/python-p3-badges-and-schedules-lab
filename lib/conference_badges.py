@@ -24,3 +24,5 @@ def printer(names):
        print(badge)
     for assignment in assign_rooms(names):
         print(assignment)
+
+#tests passing
